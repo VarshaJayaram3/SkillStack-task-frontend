@@ -36,11 +36,11 @@ SkillStack is a full-stack web application that helps users track their learning
 
 ### Frontend Setup
 
-npm install , 
+ npm install 
 
-npm install axios react-router-dom , 
+ npm install axios react-router-dom
 
-npm run dev
+ npm run dev
 
 ### Backend Setup
 - python -m venv venv
